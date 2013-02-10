@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<root>
+  <list>
+
+    <item>
+      <name>Neo 2</name>
+      <appendix>Erlaubt # als Mod3 und beide Shift für Caps</appendix>
+      <appendix></appendix>
+      <appendix>Zusätzlich sollten folgende Funktionen unten akiviert werden.</appendix>
+      <appendix> • For German > NEO Keyboard Layout Fixes</appendix>
+      <appendix>Außerdem sollte Capslock zu Option umbelegt werden.</appendix>
+    </item>
+
+    <item>
+      <name>German Neo 2. Enthält:</name>
+      <appendix>• Mod3-Taste</appendix>
+      <identifier>private.german_neo_mod4</identifier>
+
+      <!-- Mod 4 Modifiers and Mod 4 Locks -->
+
+
+      <autogen>--KeyOverlaidModifier-- KeyCode::GERMAN_LESS_THAN, VK_COMMAND, KeyCode::VK_MODIFIER_EXTRA1, ModifierFlag::COMMAND_R, KeyCode::GERMAN_LESS_THAN, ModifierFlag::COMMAND_L</autogen>
+
+    </item>
+
+    <item>
+      <name>Shift_L+Shift_R zu Capslock</name>
+      <identifier>private.german_neo_bothshift_to_capslock</identifier>
+      <autogen>--KeyOverlaidModifier-- KeyCode::SHIFT_L, ModifierFlag::SHIFT_R, KeyCode::SHIFT_L, KeyCode::CAPSLOCK</autogen>
+      <autogen>--KeyOverlaidModifier-- KeyCode::SHIFT_R, ModifierFlag::SHIFT_L, KeyCode::SHIFT_R, KeyCode::CAPSLOCK</autogen>
+    </item>
+
+  </list>
+</root>
