@@ -12,3 +12,7 @@ In the standard version, arabic is used when caps lock is active.
 The characters are on the layer `caps` and the additional layer `shift caps`.
 The version `Arab_Neo/neo lars arabic.keylayout`
 is an older version with latin letters on the caps layer.
+
+Numbers on the Keypad are european arabic numbers,
+the normal arabic layer uses standard arabic numbers
+and shift arabic are eastern arabic numbers.
