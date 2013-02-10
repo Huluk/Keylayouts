@@ -1,0 +1,14 @@
+Here are my Forks of the Neo-Layout for Mac.
+Originals: http://neo-layout.org
+
+Instructions:
+1. Put the `.keylayout` files and the corresponding `.icns` in `~/Library/Keyboard\ Layouts/`.
+2. Select Keyboards in Language & Text Preferences.
+Optional:
+3. Use the modified `private.xml` in `Neo/` in KeyRemap4Mac for better Mod3 access.
+
+Arab_Neo:
+In the standard version, arabic is used when caps lock is active.
+The characters are on the layer `caps` and the additional layer `shift caps`.
+The version `Arab_Neo/neo lars arabic.keylayout`
+is an older version with latin letters on the caps layer.
