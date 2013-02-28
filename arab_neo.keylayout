@@ -1437,7 +1437,7 @@
             <when state="Ebene 1 T2 Gravis" output="È"/>
             <when state="Ebene 1 T3 Akut" output="É"/>
             <when state="Ebene 2 T1 Caron Hatschek" output="Ě"/>
-            <when state="Ebene 2 T2 Cedille" output="Ȩ"/>
+            <when state="Ebene 2 T2 Cedille" output="Ę"/>
             <when state="Ebene 2 T3 Tilde" output="Ẽ"/>
             <when state="Ebene 3 T1 Drehen" output="Ǝ"/>
             <when state="Ebene 3 T2 Ring" output="E̊"/>
@@ -1908,7 +1908,7 @@
             <when state="Ebene 1 T2 Gravis" output="è"/>
             <when state="Ebene 1 T3 Akut" output="é"/>
             <when state="Ebene 2 T1 Caron Hatschek" output="ě"/>
-            <when state="Ebene 2 T2 Cedille" output="ȩ"/>
+            <when state="Ebene 2 T2 Cedille" output="ę"/>
             <when state="Ebene 2 T3 Tilde" output="ẽ"/>
             <when state="Ebene 3 T1 Drehen" output="ɘ"/>
             <when state="Ebene 3 T2 Ring" output="e̊"/>
