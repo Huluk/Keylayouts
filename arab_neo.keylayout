@@ -165,7 +165,7 @@
             <key code="10" action="LTR-Override"/>
             <key code="11" action="Je"/>
             <key code="12" action="Cha"/>
-            <key code="13" action="Ddad"/>
+            <key code="13" action="Zha"/>
             <key code="14" action="Lam"/>
             <key code="15" action="Ghayn"/>
             <key code="16" action="Kaf"/>
@@ -185,7 +185,7 @@
             <key code="30" action="Hamza"/>
             <key code="31" action="Va"/>
             <key code="32" action="Hha"/>
-            <key code="33" action="Zha"/>
+            <key code="33" action="Ddad"/>
             <key code="34" action="Ain"/>
             <key code="35" action="Qaf"/>
             <key code="36" output="&#x000D;"/>
