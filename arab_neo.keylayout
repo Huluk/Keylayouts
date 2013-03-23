@@ -47,7 +47,7 @@
             <key code="5" action="Ha"/>
             <key code="6" action="Schadda"/>
             <key code="7" action="Ta Marbuta"/>
-            <key code="8" action="Lam-Alif"/>
+            <key code="8" action="Alif Madda"/>
             <key code="9" action="Sukrun"/>
             <key code="10" action="RTL-Override"/>
             <key code="11" action="Zay"/>
@@ -160,8 +160,8 @@
             <key code="5" action="Ha"/>
             <key code="6" action="Schadda"/>
             <key code="7" action="Ta Marbuta"/>
-            <key code="8" action="Lam-Alif"/>
-            <key code="9" action="Alif Madda"/>
+            <key code="8" action="Alif Wasla"/>
+            <key code="9" action="Sukrun"/>
             <key code="10" action="LTR-Override"/>
             <key code="11" action="Je"/>
             <key code="12" action="Cha"/>
@@ -914,6 +914,9 @@
         <action id="Alif">
             <when state="none" output="ا"/>
             <when state="Ebene 1 T3 Hamza" output="أ"/>
+        </action>
+        <action id="Alif Wasla">
+            <when state="none" output="ٱ"/>
         </action>
         <action id="Alif Maqsura">
             <when state="none" output="ى"/>
